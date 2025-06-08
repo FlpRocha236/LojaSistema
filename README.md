@@ -10,7 +10,6 @@ Sistema de cadastro e pesquisa de dados de uma loja, desenvolvido em Java como p
 - **Swing** (interface gráfica)
 - **NetBeans IDE**
 - **MySQL** (para persistência de dados)
-- **Apache Ant** (automação do build)
 - **SQL** (script incluído)
 
 ## 📁 Estrutura do Projeto
@@ -20,9 +19,9 @@ Sistema de cadastro e pesquisa de dados de uma loja, desenvolvido em Java como p
 - `database/loja.sql` — Script de criação do banco de dados
 - `assets/Midia.png` — Imagem ilustrativa da interface
 - `manifest.mf` — Manifesto do projeto Java
-- `build.xml` — Script de automação do Apache Ant
+- `build.xml` — Script de automação 
 
-## 🚀 Como Executar o Projeto (com Apache Ant)
+## 🚀 Como Executar o Projeto 
 
 1. **Clone este repositório** ou baixe o ZIP:
 
