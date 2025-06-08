@@ -54,7 +54,7 @@ Sistema de cadastro e pesquisa de dados de uma loja, desenvolvido em Java como p
 
 ## 📷 Captura de Tela
 
-A imagem `assets/Midia.png` mostra a interface gráfica da aplicação.
+A imagem `assets/Imagem.jpg` mostra a interface gráfica da aplicação.
 
 ## 📌 Observações
 
